@@ -3,10 +3,8 @@
   <img src="https://github.com/nobitamusic01/nobitamusic01/raw/main/file_00000000233461f9a737ffa1ec09c591.png" width="500" alt="My Photo"/>
 </p>
 
-<h3 align="center">🚀 Projects</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090-dev/Akshay090-dev/main/assets/line.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/satyamx64/satyamx64/main/assets/blue-glow-divider.gif" width="90%" />
 </p>
 
 <p align="center">
