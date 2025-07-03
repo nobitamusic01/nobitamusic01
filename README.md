@@ -22,6 +22,8 @@
 </p>
 
 ---
+<h3 align="center">👁️ Total Profile Visitors</h3>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/nobitamusic01/count.svg" alt="Visitor Count"/>
 </p>
