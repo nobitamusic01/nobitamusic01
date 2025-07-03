@@ -1,6 +1,6 @@
 <!-- Nobita's GitHub Profile README -->
 <p align="center">
-  <img src="https://github.com/nobitamusic01/nobitamusic01/raw/main/file_00000000233461f9a737ffa1ec09c591.png" width="300" alt="My Photo"/>
+  <img src="https://github.com/nobitamusic01/nobitamusic01/raw/main/file_00000000233461f9a737ffa1ec09c591.png" width="600" alt="My Photo"/>
 </p>
 
 <p align="center">
