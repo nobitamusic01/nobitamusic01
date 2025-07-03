@@ -3,7 +3,11 @@
   <img src="https://github.com/nobitamusic01/nobitamusic01/raw/main/file_00000000233461f9a737ffa1ec09c591.png" width="500" alt="My Photo"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff,7209b7&height=200&section=header&text=Nobita&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<h3 align="center">✨ About Me</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090-dev/Akshay090-dev/main/assets/line.gif" width="80%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I'm+Nobita;Web+Developer+%7C+Telegram+Bot+Maker" />
