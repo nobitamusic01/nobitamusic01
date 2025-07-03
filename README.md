@@ -55,6 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobitamusic01&layout=compact&theme=tokyonight&hide_border=true" width="300"/>
 </p>
 
+<p align="center">
+  <img src=https://github.com/nobitamusic01/nobitamusic01/blob/6bb340f81a8fa7673dc0b7d9de4faed26950cfae/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+    
 ---
 
 ### 🚀 Project Setup (for Telegram Bots)
