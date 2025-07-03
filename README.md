@@ -1,7 +1,7 @@
 <!-- Nobita's GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/nobitamusic01/nobitamusic01/raw/main/nobita-profile.jpg" width="300" alt="Nobita Profile Picture"/>
+  <img src="https://github.com/nobitamusic01/nobitamusic01/raw/main/nobitamusic01-profile.jpg" width="300" alt="Nobita Profile Picture"/>
 </p>
 
 <p align="center">
