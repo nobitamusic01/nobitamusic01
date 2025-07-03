@@ -3,7 +3,7 @@
   <img src="https://github.com/nobitamusic01/nobitamusic01/raw/main/file_00000000233461f9a737ffa1ec09c591.png" width="500" alt="My Photo"/>
 </p>
 
-https://user-images.githubusercontent.com/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+https://github.com/nobitamusic01/nobitamusic01/raw/main/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I'm+Nobita;Web+Developer+%7C+Telegram+Bot+Maker" />
