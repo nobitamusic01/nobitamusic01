@@ -23,7 +23,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nobitamusic01&label=Profile+Views&color=0e75b6&style=flat" alt="nobitamusic01" />
+  <img src="https://komarev.com/ghpvc/?username=nobitamusic01&label=Profile+Views&color=0e75b6&style=plastic" alt="nobitamusic01" />
 </p>
 
 ### 📈 GitHub Stats
