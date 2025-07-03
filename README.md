@@ -23,8 +23,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nobitamusic01&label=👀+Profile+Visitors&color=ff69b4&style=for-the-badge" alt="Visitor badge" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=nobitamusic01&label=Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
 </p>
 
 ### 📈 GitHub Stats
