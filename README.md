@@ -7,7 +7,7 @@
   <img src=https://github.com/nobitamusic01/nobitamusic01/blob/6bb340f81a8fa7673dc0b7d9de4faed26950cfae/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=𝐇𝐀𝐘+𝐓𝐇𝐄𝐑𝐄!+👋;𝐈'𝐌+𝐍𝐎𝐁𝐈𝐓𝐀;𝐖𝐄𝐁+𝐃𝐄𝐕𝐋𝐎𝐏𝐄𝐑+%7C+𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌+𝐁𝐎𝐓𝐒+𝐌𝐀𝐊𝐄𝐑" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=𝐇𝐀𝐘+𝐓𝐇𝐄𝐑𝐄!+👋;𝐈'𝐌+𝐍𝐎𝐁𝐈𝐓𝐀;𝐂𝐎𝐃𝐄𝐑+𝐃𝐄𝐕𝐋𝐎𝐏𝐄𝐑+%7C+𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌+𝐁𝐎𝐓𝐒+𝐌𝐀𝐊𝐄𝐑" />
 </p>
 
 <p align="center">
