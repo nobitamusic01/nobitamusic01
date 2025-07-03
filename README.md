@@ -33,12 +33,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
 </p>
 
+<p align="center">
+  <img src=https://github.com/nobitamusic01/nobitamusic01/blob/6bb340f81a8fa7673dc0b7d9de4faed26950cfae/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+
 ---
 <h3 align="center">👁️ Total Profile Visitors</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/nobitamusic01/count.svg" alt="Visitor Count"/>
 </p>
+
+<p align="center">
+  <img src=https://github.com/nobitamusic01/nobitamusic01/blob/6bb340f81a8fa7673dc0b7d9de4faed26950cfae/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
 
 ### 📈 GitHub Stats
 
