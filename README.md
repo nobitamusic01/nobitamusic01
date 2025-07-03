@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090-dev/Akshay090-dev/main/assets/line.gif" width="80%"/>
+  <img src="https://raw.githubusercontent.com/nobitamusic01/glow-assets/main/glow-purple.gif" width="80%" />
 </p>
 
 <p align="center">
