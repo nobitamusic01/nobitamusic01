@@ -81,6 +81,5 @@
   <a href="https://t.me/ll_NOBITA_DEFAULTERS_ll" target="_blank">
     <b>Click here to chat with me on Telegram</b>
   </a>
-</p>
 <p align="center">
   <img src=https://github.com/nobitamusic01/nobitamusic01/blob/6bb340f81a8fa7673dc0b7d9de4faed26950cfae/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
