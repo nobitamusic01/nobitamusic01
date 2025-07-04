@@ -65,22 +65,3 @@
   <img src=https://github.com/nobitamusic01/nobitamusic01/blob/6bb340f81a8fa7673dc0b7d9de4faed26950cfae/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
     
 ---
-
-### 🚀 Project Setup (for Telegram Bots)
-
-```bash
-# 1. Clone the bot repository
-git clone https://github.com/nobitamusic01/your-bot-repo.git
-
-# 2. Go into the folder
-cd your-bot-repo
-
-# 3. Install requirements (Python or Node.js depending on bot)
-pip install -r requirements.txt
-# or
-npm install
-
-# 4. Run the bot
-python bot.py
-# or
-node bot.js
